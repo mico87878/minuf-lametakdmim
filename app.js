@@ -5,7 +5,7 @@
 // ============================================================
 
 const LEVERAGE_DEFAULTS = {
-  keren_hishtalmut:          { klali: 60, mnayati: 80 },
+  keren_hishtalmut:          { klali: 80, mnayati: 60 },
   keren_hishtalmut_lo_nazil: { klali: 50, mnayati: 50 },
   kupat_gemel:               { klali: 80, mnayati: 60 },
   polisa:                    { klali: 80, mnayati: 60 },
